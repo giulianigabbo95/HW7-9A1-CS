@@ -1,0 +1,10 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\bin\Debug\Glivenko-Cantelli.exe.config
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\bin\Debug\Glivenko-Cantelli.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\bin\Debug\Glivenko-Cantelli.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\obj\Debug\HW7-9A1-CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\obj\Debug\MyHomework.Form1.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\obj\Debug\HW7-9A1-CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\obj\Debug\HW7-9A1-CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\obj\Debug\Glivenko-Cantelli.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW7-9A1-CS\HW7-9A1-CS\obj\Debug\Glivenko-Cantelli.pdb
